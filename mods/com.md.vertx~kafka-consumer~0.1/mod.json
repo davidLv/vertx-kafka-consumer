@@ -1,0 +1,10 @@
+{
+    "main": "com.md.vertx.KafkaMessageConsumer",
+    "description":"Vert.x module for consuming data from Kafka queue.",
+    "licenses": ["The Apache Software License Version 2.0"],
+    "author": "mateuszdyminski",
+    "keywords": ["kafka"],
+    "homepage": "https://github.com/mateuszdyminski/vertx-kafka-consumer",
+    "vertxTopic":"topic",
+    "kafkaTopic":"test"
+}
